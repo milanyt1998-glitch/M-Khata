@@ -1,0 +1,8 @@
+{
+  "name": "My Khata – Digital Hisab Kitab",
+  "description": "Professional digital ledger, customer credit udhaar management, payment reminders, and business reports for Indian shopkeepers and merchants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
